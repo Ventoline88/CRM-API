@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CRM-API/CRM-API.csproj" />
+  <Project Path="CRMFunction/CRMFunction.csproj" Id="9952c163-6071-4be4-b323-622df0caa798" />
+</Solution>
